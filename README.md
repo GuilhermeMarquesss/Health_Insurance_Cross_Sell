@@ -9,4 +9,4 @@ Agora, se você está se perguntando como a empresa pode arcar com um custo tão
 
 Construir um modelo para prever se um cliente estaria interessado em seguro de veículos é extremamente útil para a empresa, pois pode planejar adequadamente sua estratégia de comunicação para alcançar esses clientes e otimizar seu modelo de negócios e receita. Agora, para prever se o cliente estaria interessado no seguro de veículos, temos informações sobre dados demográficos (sexo, idade, tipo de código de região), veículos (idade do veículo, danos), apólice (premium, canal de abastecimento) etc.
 
-https://www.kaggle.com/datasets/anmolkumar/health-insurance-cross-sell-prediction?select=train.csv
+Aqui você verá toda análise feita sobre esse projeto : https://github.com/GuilhermeMarquesss/Health_Insurance_Cross_Sell/blob/main/Notebook.ipynb
